@@ -1,2 +1,2 @@
-# ASCEND-
-Website for ASCEND
+# ASU ASCEND
+Connect. Inspire. Ascend
